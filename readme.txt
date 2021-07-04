@@ -1,0 +1,1 @@
+Programýn çalýþabilmesi için komsuuzaklýk.txt nin adresi doðru girilmelidir.Harita.java classýnýn 37. satýrýna komsuuzaklýk.txt nin adresini giriniz.
